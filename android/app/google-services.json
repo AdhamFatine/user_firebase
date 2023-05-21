@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934896659273",
+    "project_id": "users-fire-app-a2bec",
+    "storage_bucket": "users-fire-app-a2bec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934896659273:android:6e5d434f43ad17144ec898",
+        "android_client_info": {
+          "package_name": "com.fatine.usersapp.user_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934896659273-b31ntmp0iio25620ckh7s1l6j12qlpkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB17MNQ1H4xlfmJq6DBVk1h0DQijV83VMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934896659273-b31ntmp0iio25620ckh7s1l6j12qlpkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
